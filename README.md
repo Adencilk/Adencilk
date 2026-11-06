@@ -1,8 +1,8 @@
-👋 Hi, I'm Adencil Kipchirchir
+ Hi, I'm Adencil Kipchirchir
 
 Cybersecurity Engineer | CompTIA Security+ | ISC2 Certified in Cybersecurity | Google Cybersecurity Certified | Penetration Testing
 
-🔐 Security • Practical Labs • Threat Analysis • Technical Documentation
+# Security • Practical Labs • Threat Analysis • Technical Documentation
 
 I am a cybersecurity engineer committed to developing practical skills in security operations, penetration testing, network security, vulnerability assessment, and cybersecurity engineering.
 
@@ -14,7 +14,7 @@ My goal is to demonstrate my capabilities through practical projects, clear tech
 
 ---
 
-🏆 Certifications & Professional Development
+## Certifications & Professional Development
 
 - CompTIA Security+ (SY0-701)
 - ISC2 Certified in Cybersecurity (CC)
@@ -27,16 +27,16 @@ My goal is to demonstrate my capabilities through practical projects, clear tech
 
 ---
 
-🛠️ Tools & Technologies
+## Tools & Technologies
 
-💻 Operating Systems
+### Operating Systems
 
 - Kali Linux
 - Ubuntu Linux
 - Windows
 - Windows Server lab environments
 
-🔎 Security & Assessment Tools
+## Security & Assessment Tools
 
 - Nmap — Network discovery and port scanning
 - Gobuster — Web content and directory discovery
@@ -47,7 +47,7 @@ My goal is to demonstrate my capabilities through practical projects, clear tech
 - Git & GitHub — Version control and portfolio documentation
 
 
-🌐 Networking & Core Technologies
+## Networking & Core Technologies
 
 - TCP/IP and common networking protocols
 - DNS, HTTP/HTTPS, and network services
@@ -60,9 +60,9 @@ My goal is to demonstrate my capabilities through practical projects, clear tech
 
 ---
 
-🧠 Technical Skills
+## Technical Skills
 
-🔵 Defensive Security
+## Defensive Security
 
 - Security monitoring fundamentals
 - Log analysis and event investigation
@@ -72,7 +72,7 @@ My goal is to demonstrate my capabilities through practical projects, clear tech
 - Security incident tabletop exercises
 - Security documentation and reporting
 
-🔴 Offensive Security
+## Offensive Security
 
 - Reconnaissance and enumeration
 - Network and service discovery
@@ -82,7 +82,7 @@ My goal is to demonstrate my capabilities through practical projects, clear tech
 - Basic penetration-testing methodology
 - Technical findings and remediation documentation
 
-🟣 Professional & Analytical Skills
+## Professional & Analytical Skills
 
 - Analytical and critical thinking
 - Technical problem-solving
@@ -94,7 +94,7 @@ My goal is to demonstrate my capabilities through practical projects, clear tech
 
 ---
 
-🚀 Featured Projects
+## Featured Projects
 
 1. SOC Home Lab — Wazuh Security Monitoring
 
@@ -161,22 +161,8 @@ Exercise objectives:
 
 ---
 
-📚 Current Focus
 
-My current development priorities are:
-
-- Completing practical cybersecurity labs and strengthening technical depth.
-- Conducting security tabletop exercises.
-- Rebuilding and documenting my SOC home lab with screenshots and supporting evidence.
-- Publishing clear, structured GitHub reports.
-- Improving my ability to investigate security events and communicate findings.
-- Preparing a professional portfolio for employment and suitable freelance opportunities.
-
-I prioritize demonstrable skills, responsible practice, and meaningful documentation over collecting credentials alone.
-
----
-
-🤝 Professional Opportunities
+# Professional Opportunities
 
 I am open to suitable entry-level cybersecurity roles, internships, and freelance projects aligned with my demonstrated skills.
 
@@ -186,7 +172,7 @@ I value integrity, confidentiality, accountability, continuous improvement, and 
 
 ---
 
-📫 Connect With Me
+# Connect With Me
 
 - GitHub: "github.com/Adencilk" (https://github.com/Adencilk)
 - LinkedIn: www.linkedin.com/in/adencil-kipchirchir-6959a53a6
